@@ -1,5 +1,5 @@
 Multilingual Hate Speech Toxic Analysis Data Repository
-This repository contains datasets curated for research in context-aware sentiment analysis and emotion detection in multilingual social media data. The datasets focus on Lao and Shan languages, including toxic keywords to facilitate nuanced analysis. These resources are designed to support advanced studies in natural language processing (NLP) and sentiment analysis.
+This repository contains datasets curated for research in Hate speech Detection, weakly supervised ML  and emotion detection in multilingual social media data. The datasets focus on Lao and Shan languages, including toxic keywords to facilitate nuanced analysis. These resources are designed to support advanced studies in natural language processing (NLP) and Hate detection.
 
 Repository Contents
 Lao YouTube Comments
